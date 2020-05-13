@@ -1,0 +1,22 @@
+#This program makes use of the built in ping commands, ssh, and the third party program Nmap.
+
+#Run the nmap installer before use, make it executable by issuing the following command:
+
+	chmod +x nmap-install.sh
+
+#Then execute with:
+
+	./nmap-install.sh
+
+#Make the network tool executable with:
+
+	chmod +x network.py
+
+#Then execute with:
+
+	./network.py
+
+#This program is dependent on Python v.3 and above. If you do not have this issue
+# the following command
+
+	sudo apt install python3 python 3.6 python 3.8
