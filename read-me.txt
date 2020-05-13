@@ -19,4 +19,4 @@
 #This program is dependent on Python v.3 and above. If you do not have this issue
 # the following command
 
-	sudo apt install python3 python 3.6 python 3.8
+	sudo apt install python3 python3.6 python3.8
